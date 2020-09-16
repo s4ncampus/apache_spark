@@ -1,0 +1,13 @@
+{
+  "load_extensions": {
+    "jupyter_tabnine/main": true,
+    "nbextensions_configurator/config_menu/main": true,
+    "contrib_nbextensions_help_item/main": true,
+    "exercise/main": true,
+    "exercise2/main": true,
+    "rubberband/main": true
+  },
+  "Notebook": {
+    "Header": true
+  }
+}
